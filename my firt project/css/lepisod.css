@@ -1,0 +1,180 @@
+.lepisod__top h2{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 79px;
+letter-spacing: 2.88px;
+color: #FFFFFF;
+}
+.lepisod__top button{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 27px;
+color: #FFFFFF;
+background: #118DA8;
+border-radius: 6px;
+height: 51px;
+}
+.lepisod__top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 93px;
+    padding-bottom: 66px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+
+
+
+
+.lepisod__card__1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 60px;
+}
+.lepisod__card__1 h3{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 27px;
+color: #118DA8;
+}
+.lepisod__card__1 h2{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 70px;
+letter-spacing: 2.56px;
+color: #FFFFFF;
+}
+.lepisod__card__1 p{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.7);
+}
+.lepisod__card__1 button{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #FFFFFF;
+background: #118DA8;
+border-radius: 6px;
+}
+.lepisod__card__1 img{
+    max-width: 389px;
+    height: 465px;
+}
+
+
+
+.lepisod__card__2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 60px;
+}
+.lepisod__card__2 h3{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 27px;
+color: #118DA8;
+}
+.lepisod__card__2 h2{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 70px;
+letter-spacing: 2.56px;
+color: #FFFFFF;
+}
+.lepisod__card__2 p{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.7);
+}
+.lepisod__card__2 button{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #FFFFFF;
+background: #118DA8;
+border-radius: 6px;
+}
+.lepisod__card__2 img{
+    max-width: 389px;
+    height: 432px;
+}
+
+
+
+
+.lepisod__card__3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 260px;
+}
+.lepisod__card__3 h3{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 27px;
+color: #118DA8;
+}
+.lepisod__card__3 h2{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 70px;
+letter-spacing: 2.56px;
+color: #FFFFFF;
+}
+.lepisod__card__3 p{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+color: rgba(255, 255, 255, 0.7);
+}
+.lepisod__card__3 button{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #FFFFFF;
+background: #118DA8;
+border-radius: 6px;
+}
+.lepisod__card__3 img{
+    max-width: 389px;
+    height: 432px;
+}
+.card__right button.gear{
+    background: #191919;
+border-radius: 6px;
+}

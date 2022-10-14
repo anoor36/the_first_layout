@@ -1,0 +1,80 @@
+/* .mail{
+    background: url("../assets/img/mail.png") ;
+    background-repeat: no-repeat;
+    height: 387px;
+} */
+.mail__bbtn{
+    background: #000000;
+border-radius: 32px;
+width: 1300px;
+height: 387px;
+}
+.mail__content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+/* .mail__form{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+} */
+.mail__top h3{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #118DA8;
+}
+.mail__top h2{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 79px;
+letter-spacing: 2.88px;
+color: #FFFFFF;
+padding-bottom: 143px;
+padding-left: 60px;
+}
+.mail__text{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: rgba(255, 255, 255, 0.7);
+    background: #191919;
+border: 1px solid #191919;
+border-radius: 6px;
+height: 52px;
+margin-bottom: 20px;
+}
+.mail__email{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: rgba(255, 255, 255, 0.7);
+    background: #191919;
+border: 1px solid #191919;
+border-radius: 6px;
+height: 52px;
+margin-bottom: 20px;
+}
+.mail__btn{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 29px;
+color: rgba(255, 255, 255, 0.7);
+    background: #118DA8;
+border-radius: 6px;
+height: 44px;
+display: flex;
+justify-content: start;
+margin-bottom: 75px;
+}

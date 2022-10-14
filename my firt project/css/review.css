@@ -1,0 +1,208 @@
+.review__content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 200px;
+}
+.review__card__1{
+    background: #000000;
+border-radius: 32px;
+height: 321px;
+width: 423px;
+padding-right: 9px;
+padding-left: 58px;
+margin-bottom: 16px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.review__card__1 h2{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+.review__card__1 h3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+
+
+
+
+
+
+.review__card__2{
+    background: #000000;
+border-radius: 32px;
+height: 321px;
+width: 423px;
+padding-right: 9px;
+margin-bottom: 16px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.review__card__2 h2{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+.review__card__2 h3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+
+
+
+
+
+
+.review__card__3{
+    background: #000000;
+border-radius: 32px;
+height: 321px;
+width: 423px;
+padding-right: 59px;
+margin-bottom: 16px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.review__card__3 h2{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+.review__card__3 h3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+
+
+
+
+
+.review__card__4{
+    background: #000000;
+border-radius: 32px;
+height: 364px;
+width: 423px;
+padding-right: 9px;
+padding-left: 58px;
+display: flex;
+justify-content: space-=space-around;
+align-items: center;
+}
+.review__card__4 h2{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+.review__card__4 h3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+
+
+
+
+
+.review__card__5{
+    background: #000000;
+border-radius: 32px;
+height: 364px;
+width: 423px;
+padding-right: 9px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.review__card__5 h2{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+.review__card__5 h3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+
+
+
+
+
+
+
+
+.review__card__6{
+    background: #000000;
+border-radius: 32px;
+height: 364px;
+width: 423px;
+padding-right: 58px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.review__card__6 h2{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+}
+.review__card__6 h3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+}

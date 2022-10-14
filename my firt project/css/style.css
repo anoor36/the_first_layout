@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+@import url(./header.css);
+@import url(./podc.css);
+@import url(./lepisod.css);
+@import url(./jacob.css);
+@import url(./mail.css);
+@import url(./review.css);
+@import url(./footer.css);
+@import url(./media.css);
+body{
+    background: #191919;
+}
+.container{
+    max-width: 1300px;
+    margin: auto;
+}

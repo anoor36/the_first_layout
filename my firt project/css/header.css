@@ -1,0 +1,29 @@
+header {
+    background: #191919;
+    max-width: 1440px 119px;
+ }
+.header__content{
+    padding-top: 43.08px;
+    padding-bottom: 43.3px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50.58px;
+    padding-right: 70px;
+}
+.header__nav {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+ }
+ .header__nav li{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 27px;
+color: #FFFFFF;
+ }
+ .header__content h2{
+    color: #FFFFFF;
+ }

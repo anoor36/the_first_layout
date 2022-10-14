@@ -1,0 +1,35 @@
+.footer__content{
+    padding-top: 200.11px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer__content h2{
+    color: #FFFFFF;
+}
+.footer__content ul{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 27px;
+color: #FFFFFF;
+list-style: none;
+}
+.footer__top{
+    padding-left: 70.81px;
+    padding-bottom: 245px;
+    margin-right: 129px;
+}
+.footer__contact{
+    padding-bottom: 177px;
+    margin-right: 16.02px;
+}
+.footer__inst{
+    padding-bottom: 127px;
+    margin-right: 16.22px;
+}
+.footer__music{
+    padding-bottom: 256px;
+    padding-right: 289px;
+}
